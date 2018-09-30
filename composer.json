@@ -1,0 +1,22 @@
+{
+  "name": "chrishardinge/nbn-lookup",
+  "description": "Check NBN availability at a given address.",
+  "keywords": ["nbn","search","lookup"],
+  "homepage": "https://chrishardinge.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chris Hardinge",
+      "email": "chris.hardinge@outlook.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1.3",
+    "guzzlehttp/guzzle": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ChrisHardinge\\NbnLookup\\": "src/"
+    }
+  }
+}
