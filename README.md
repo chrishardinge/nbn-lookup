@@ -1,4 +1,4 @@
-# nbn-finder
+# NBN Lookup
 A simple package to check NBN availability at a given address.
 
 This is an initial release with minimum functionality, so there will be breaking changes.
